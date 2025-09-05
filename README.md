@@ -52,9 +52,8 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador con fuerte enfoque en **C
 
 ## 📫 Cómo contactarme
 
-- ✉️ Email: tu-email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario) *(opcional)*  
-- 🌐 Portafolio: *(si tienes uno, agrégalo aquí)*
+- ✉️ Email: gersospaiz@gmail.com  
+
 
 ---
 
