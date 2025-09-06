@@ -9,7 +9,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador con fuerte enfoque en **C
 - 💻 Actualmente desarrollando proyectos en **C++**, **PHP** y **MySQL**
 - 🧠 Interesado en la programación competitiva, el backend y el desarrollo de software de alto rendimiento
 - 🌱 Aprendiendo sobre:
-  - Desarrollo web fullstack
+  - Desarrollo web 
   - Seguridad informática básica
   - Estructuras de datos y algoritmos avanzados
 
